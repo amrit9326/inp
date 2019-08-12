@@ -1,2 +1,2 @@
-rw=intput("Enter The Input:)
+rw=intput("Enter The Input:")
 print(rw)
